@@ -47,7 +47,7 @@ header {
 
 
 body {
-  animation: blink-animation .2s steps(5, start) infinite;
+  animation: 2s blink-animation .2s steps(5, start) infinite;
   -webkit-animation: blink-animation .2s steps(5, start) infinite;
 }
 @keyframes blink-animation {
